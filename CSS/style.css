@@ -110,7 +110,8 @@ z-index: 9999;
         display: flex;
         justify-content: center;
         align-items: center;
-        /* background-color: black; */
+        /* background-color: red; */
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     
     ul{
@@ -118,13 +119,11 @@ z-index: 9999;
         list-style: none;
         display: flex;
         flex-direction: row;
-        justify-content: flex-end;
+        justify-content: center;
         text-align: center;
         width: 50%;
-/* background-color: firebrick; */
         gap: 20px;
-    /* row-gap: 10px; */
-        /* justify-content: space-around; */
+  
     }
 
     ul li{
